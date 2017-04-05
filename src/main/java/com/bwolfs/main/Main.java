@@ -1,4 +1,4 @@
-package com.bwolfs;
+package com.bwolfs.main;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
